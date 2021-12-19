@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "img":"https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/images/testimonial/1.jpg",
+        "decs":"It was a pleasure meeting you this past weekend.  I appreciate all you shared and can't wait to review the Ecology of Commerce. I'll come see you again soon!",
+        "name":"Anna",
+        "rate":"5"
+    },
+    {
+        "id":"2",
+        "img":"https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/images/testimonial/2.jpg",
+        "decs":"It was a pleasure meeting you this past weekend. I appreciate all you shared and can't wait to review the Ecology of Commerce. I'll come see you again soon!",
+        "name":"jane",
+        "rate":"4"
+    },
+    {
+        "id":"3",
+        "img":"https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/images/testimonial/3.jpg",
+        "decs":"It was a pleasure meeting you this past weekend. I appreciate all you shared and can't wait to review the Ecology of Commerce. I'll come see you again soon!",
+        "name":"Jhon",
+        "rate":"4"
+    }
+]

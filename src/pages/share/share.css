@@ -1,0 +1,15 @@
+.form-input{
+    border: 2px solid #00000024;
+    outline: none;
+    width: 100%;
+    padding: 15px 20px;
+    /* margin-bottom: 20px !important; */
+}
+.form-btn{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 15px 0;
+    background-color: #3474d6;
+    color: #fff;
+}

@@ -1,0 +1,35 @@
+.container-products{
+    background-image: url('https://lusion.arrowtheme.com/wp-content/uploads/2020/11/breadcrumb-mininalist.jpg.webp');
+    background-position: center;
+    width: 100%;
+    height: 40vh;
+    background-size:cover;
+}
+.pro-btn{
+    border: 1px solid #00000045;
+    outline: none;
+    background-color: transparent;
+    padding: 10px 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.add-btn{
+    padding: 20px 30px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin-left: 20px;
+    /* display: inline-block; */
+}
+.pro-input{
+    /* border:; */
+    outline: none;
+    padding: 0 0px 0 10px;
+    width: 60px;
+
+}
+.pro-btn:hover{
+    background-color: #000;
+    color: #fff;
+}

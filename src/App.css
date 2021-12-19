@@ -1,0 +1,18 @@
+/* common color  */
+.hover-color:hover{
+    color: #3bb77e;
+}
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@1&display=swap');
+ h1{
+    font-family: 'ABeeZee', sans-serif;
+ }
+ .slick-prev,.slick-next{
+    display: none !important;
+}
+.color{
+    color: goldenrod;
+}
+.feed-slick{
+    outline: none !important;
+    border: none !important;
+}
